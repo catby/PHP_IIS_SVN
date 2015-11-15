@@ -1,0 +1,30 @@
+P.Auth
+{
+    font-size:12px;
+    margin:5px;
+    margin-left:170px;
+}
+
+TABLE.Auth
+{
+    font-size:14px;
+	border-collapse:collapse;
+    width:400;
+}
+
+TABLE.Auth TH
+{
+	background-color:#f7f7f0;
+	border:1px;
+	border-color:#d7d7d7;
+	border-style:solid;
+}
+
+TABLE.Auth TD
+{
+	padding-left:5px;
+	border:1px;
+	border-color:#dddddd;
+	border-style:solid;
+}
+

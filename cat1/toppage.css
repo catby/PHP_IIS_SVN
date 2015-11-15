@@ -1,0 +1,71 @@
+BODY {
+	background-image:url(../img/bg_craftpaper04.jpg);
+}
+
+H1 {
+	border-width:0;
+	border-bottom: #000 3px inset;
+	font-size: 220%;
+	font-family: helvetica, sans-serif
+}
+H2 {
+	border-width:0;
+	border-right: #000 2px inset;
+	border-bottom: #000 2px inset;
+	color: #221100;
+	background-color: #A07070
+}
+
+TABLE TR.odd {
+	vertical-align: top;
+	background-color: #d3b72c
+}
+TABLE TR.even {
+	vertical-align: top;
+	background-color: #de7021
+}
+
+DIV.copyright {
+	font-size: smaller;
+	font-family: helvetica, sans-serif;
+	background-color: #A07070;
+	text-align: right;
+	padding:4px;
+}
+
+TABLE.Entry {
+	font-size:13px;
+	border-collapse:collapse;
+}
+TABLE.Entry TH {
+	background-color:#F7F7F0;
+	border:1px;
+	border-color:#D7D7D7;
+	border-style:solid;
+}
+TABLE.Entry TD {
+	background-color:#FEFEFE;
+	border:1px;
+	border-color:#D7D7D7;
+	border-style:solid;
+}
+
+TABLE TD.child {
+	padding-left:20px;
+}
+
+SPAN.EditMark {
+	font-size:12px;
+	font-weight:900;
+}
+
+SPAN.h2small {
+	font-size: 12pt;
+	font-style: italic;
+	font-family: helvetica, sans-serif
+}
+
+LI {
+	padding-bottom: 0.2em;
+	padding-top: 0.2em
+}
